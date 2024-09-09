@@ -30,3 +30,7 @@ Feel free to add more words to either list. **I do like food, and would apprecia
 ## License
 
 MIT
+
+## Additional Dcitionaries
+
+From https://github.com/sebastienrousseau/password-generator/tree/master/src/dictionaries
