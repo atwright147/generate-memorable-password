@@ -1,5 +1,5 @@
-import adjectives from './lib/adjectives';
-import nouns from './lib/nouns';
+import adjectives from './dicts/lib/adjectives';
+import nouns from './dicts/lib/nouns';
 
 import adjectives2 from './dicts/adjectives.json';
 import adverbs from './dicts/adverbs.json';

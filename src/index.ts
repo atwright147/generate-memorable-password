@@ -1,4 +1,4 @@
-import { generate } from './genrate';
+import { generate } from './generate';
 
 const password = generate();
 
